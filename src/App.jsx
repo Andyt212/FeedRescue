@@ -57,11 +57,6 @@ function App() {
         <h1 className="text-8xl font-bold pt-3 pb-10">
           A marketplace for surplus produce and leftovers
         </h1>
-        <h2 className="text-2xl font-light w-5/6 pl-4">
-          Every day food waste fills landfills harming the planet. FeedRescue
-          redirects produce scraps to local farmers, cutting waste, supporting
-          small businesses and fueling sustainable food systems. Join us!
-        </h2>
       </div>
 
       {/* HOW IT WORKS */}
